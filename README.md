@@ -100,6 +100,7 @@ Through this project, I practiced:
 - Business Data Analysis
 
 ---
+**Shimaa Emad**
 
-## Author
-Your Name
+<img width="1919" height="980" alt="image" src="https://github.com/user-attachments/assets/3b6e435d-206d-47c2-8e39-1ead28d0400b" />
+
